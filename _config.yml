@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: 2.DGL of Madras - Solomon Knowledge Repository!
+title: 3.DGL of Madras - Solomon Knowledge Repository!
 description: Bookmark this page for easier access!
 site.github.is_project_page: false
- 
+github:
+ is_user_page: false
+ is_project_page: false
