@@ -1,28 +1,17 @@
-## 2. Welcome to DGL of Madras Knowledge Repository
-
-A journey through Solomon to seek and learn.
-
-
+## A journey through Solomon to seek and learn
 
 ### Share your learning
 
 Knowledge Shared = **Knowledge<sup>2</sup>**
 
-> Syntax highlighted code block
+### Start Here
+- [The Five points of fellowship](https://drive.google.com/file/d/1J2G3bADYAYQCB8TF5stHwtL9U5EXwnw5/view?usp=sharing)
+- [The Importance and Impact Of L&D Initiatives in Recruiting and Retaining Members](https://drive.google.com/file/d/1nnegkBkxQe5B_TenvJczQMYuf8Y7XYpz/view?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+### Nuggets from Brethren
 
-- Bulleted
-- List
-
-
-1. Numbered
-2. List
-
-
-
+- [Solomon as a platform](https://drive.google.com/file/d/1oPo19TzWzdxjBY7YNT27hjfnQh7jBlSY/view?usp=sharing)
+- [Ornaments of the Lodge](https://drive.google.com/file/d/1TdC9G8GPeEnyBEH6YB6Fl0b6qiCPtvjF/view?usp=sharing)
 
 
 ### Archive
