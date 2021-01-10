@@ -1,6 +1,6 @@
 ## A journey through Solomon to seek and learn
 
-Knowledge Shared = <span style="color:red">**Knowledge<sup>2</sup>**</span>
+<span style="color:red">Knowledge Shared</span> = **Knowledge<sup>2</sup>**
 
 
 
