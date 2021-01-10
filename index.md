@@ -1,4 +1,4 @@
-## Welcome to DGL of Madras Knowledge Repository
+## 2. Welcome to DGL of Madras Knowledge Repository
 
 A journey through Solomon to seek and learn.
 
@@ -6,10 +6,9 @@ A journey through Solomon to seek and learn.
 
 ### Share your learning
 
-Knowledge Shared = Knowledge<sup>2</sup>
+Knowledge Shared = **Knowledge<sup>2</sup>**
 
-```markdown
-Syntax highlighted code block
+> Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -18,19 +17,17 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 
 
 ### Archive
 
-For a complete list of all the Nuggets visit [here](https://drive.google.com/drive/folders/147uXBFWWlQIHzXuBEpQRmcC8zFldPIxi). T
+For a complete list of all the Nuggets visit [here](https://drive.google.com/drive/folders/147uXBFWWlQIHzXuBEpQRmcC8zFldPIxi).
 
 ### Support or Contact
 
