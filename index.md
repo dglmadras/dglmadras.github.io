@@ -2,11 +2,11 @@
 
 A journey through Solomon to seek and learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Share your learning
+
+Knowledge Shared = Knowledge<sup>2</sup>
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dglmadras/dglmadras.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Archive
+
+For a complete list of all the Nuggets visit [here](https://drive.google.com/drive/folders/147uXBFWWlQIHzXuBEpQRmcC8zFldPIxi). T
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Please request your Lodge Information Officer for permission to access the learnings.
