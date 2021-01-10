@@ -1,7 +1,5 @@
 ## A journey through Solomon to seek and learn
 
-### Share your learning
-
 Knowledge Shared = **Knowledge<sup>2</sup>**
 
 ### Start Here
@@ -12,7 +10,6 @@ Knowledge Shared = **Knowledge<sup>2</sup>**
 
 - [Solomon as a platform](https://drive.google.com/file/d/1oPo19TzWzdxjBY7YNT27hjfnQh7jBlSY/view?usp=sharing)
 - [Ornaments of the Lodge](https://drive.google.com/file/d/1TdC9G8GPeEnyBEH6YB6Fl0b6qiCPtvjF/view?usp=sharing)
-
 
 ### Archive
 
