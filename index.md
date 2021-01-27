@@ -24,4 +24,4 @@ For a complete list of all the Nuggets visit [here](https://drive.google.com/dri
 
 ### Support or Contact
 
-Having trouble with Pages? Please request your Lodge Information Officer for permission to access the learnings.
+Having trouble with Pages? Please send a mail to asksolomon@dglofmadras.org and request for permission to view the content.
