@@ -24,6 +24,4 @@ For a complete list of all the Nuggets visit [here](https://drive.google.com/dri
 
 ### Support or Contact
 
-Having trouble with Pages? Please send a mail to [Solomon team](mailto:asksolomon@dglofmadras.org?subject=Request for permission)
-
- and request for permission to view the content.
+Having trouble with Pages? Please send a mail to  [Solomon team](mailto:asksolomon@dglofmadras.org) and request for permission to view the content.
