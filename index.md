@@ -5,7 +5,7 @@
 
 
 ### Nuggets
-- [HRA](https://drive.google.com/file/d/18ogy0IREGs6h12BTx6-eheB83mksDpKv/view?usp=sharing)
+- [Reverential or Hailing Sign in Holy Royal Arch](https://drive.google.com/file/d/18ogy0IREGs6h12BTx6-eheB83mksDpKv/view?usp=sharing)
 - [The Mosaic Pavement](https://drive.google.com/file/d/1Iw1jpqF36n5EJVcOAQS1tDvvyVlIYUAF/view?usp=sharing)
 - [Creating a Nugget](https://drive.google.com/file/d/1Hu469imiceIvzgLzJhlolw5i0eKbnWUX/view?usp=sharing)
 - [Power of 3 in writing a Nugget](https://drive.google.com/file/d/1KgkWl9_0bxC3c30akhFx2_PjCA07gKV_/view?usp=sharing)
