@@ -16,6 +16,7 @@
 
 
 ### Articles
+- [Rough and Perfect Ashlar](https://drive.google.com/file/d/1wsKWVqiPKJBq59WJMGjUa8_MonJRpz0I/view?usp=sharing)
 - [Training the Leads](https://drive.google.com/file/d/1KHwT-wOQDGrq-ECmS684kaDODAHJo1JE/view?usp=sharing)
 - [The Five points of fellowship](https://drive.google.com/file/d/1J2G3bADYAYQCB8TF5stHwtL9U5EXwnw5/view?usp=sharing)
 
