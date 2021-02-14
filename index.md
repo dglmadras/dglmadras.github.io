@@ -5,6 +5,9 @@
 
 
 ### Nuggets
+- [Reaching the First Regular Step](https://drive.google.com/file/d/1iwESjCmaUFpSzgB2_lMrGd_mKMtt25ey/view?usp=sharing)
+- [The Trowel](https://drive.google.com/file/d/1a1uJxBL73GGV-rjmk6oA4l0SJbFD5v3j/view?usp=sharing)
+- [An Officer and a Mason](https://drive.google.com/file/d/1BM8blOwyv7KVbtsxCPDaRiAtt-Sy6FcQ/view?usp=sharing)
 - [Reverential or Hailing Sign in Holy Royal Arch](https://drive.google.com/file/d/18ogy0IREGs6h12BTx6-eheB83mksDpKv/view?usp=sharing)
 - [The Mosaic Pavement](https://drive.google.com/file/d/1Iw1jpqF36n5EJVcOAQS1tDvvyVlIYUAF/view?usp=sharing)
 - [Creating a Nugget](https://drive.google.com/file/d/1Hu469imiceIvzgLzJhlolw5i0eKbnWUX/view?usp=sharing)
