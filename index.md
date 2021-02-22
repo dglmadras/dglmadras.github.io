@@ -5,6 +5,8 @@
 
 
 ### Nuggets
+- [Allegory and Symbols](https://drive.google.com/file/d/1huSa7NDRBUsOJdZn69A_G35hGagFFTCF/view?usp=sharing)
+- [The Poniard](https://drive.google.com/file/d/1417uB9R7H2E2IaA_QjTORoKf5HfjoAwc/view?usp=sharing)
 - [Reaching the First Regular Step](https://drive.google.com/file/d/1iwESjCmaUFpSzgB2_lMrGd_mKMtt25ey/view?usp=sharing)
 - [The Trowel](https://drive.google.com/file/d/1a1uJxBL73GGV-rjmk6oA4l0SJbFD5v3j/view?usp=sharing)
 - [An Officer and a Mason](https://drive.google.com/file/d/1BM8blOwyv7KVbtsxCPDaRiAtt-Sy6FcQ/view?usp=sharing)
