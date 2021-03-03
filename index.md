@@ -20,8 +20,7 @@
 - [Solomon as a platform](https://drive.google.com/file/d/1oPo19TzWzdxjBY7YNT27hjfnQh7jBlSY/view?usp=sharing)
 - [Ornaments of the Lodge](https://drive.google.com/file/d/1TdC9G8GPeEnyBEH6YB6Fl0b6qiCPtvjF/view?usp=sharing)
 - [The Importance and Impact Of L&D Initiatives in Recruiting and Retaining Members](https://drive.google.com/file/d/1nnegkBkxQe5B_TenvJczQMYuf8Y7XYpz/view?usp=sharing)
-[next>>](https://github.com/dglmadras/dglmadras.github.io/edit/main/index2.md)
-
+[next>>](https://dglmadras.github.io/index2.html)
 
 ### Articles
 - [Rough and Perfect Ashlar](https://drive.google.com/file/d/1wsKWVqiPKJBq59WJMGjUa8_MonJRpz0I/view?usp=sharing)
