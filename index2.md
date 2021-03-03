@@ -5,11 +5,8 @@
 
 
 ### Nuggets
-- [Journey as an Entered Apprentice](https://drive.google.com/file/d/1SET2jRQ50w4Sw2rT6eCJe84GjIs7RJF8/view?usp=sharing)
-- [Charity](https://drive.google.com/file/d/1R8h9E3H5dt13ZC1Y-3RpqJK5Gilj9OSH/view?usp=sharing)
-- [Allegory and Symbols](https://drive.google.com/file/d/1huSa7NDRBUsOJdZn69A_G35hGagFFTCF/view?usp=sharing)
-- [The Poniard](https://drive.google.com/file/d/1L9pE1dQ4bXO1DxC16hYRAz7m4_QykMM8/view?usp=sharing)
-- [Reaching the First Regular Step](https://drive.google.com/file/d/1iwESjCmaUFpSzgB2_lMrGd_mKMtt25ey/view?usp=sharing)
+  
+  [<<prev](https://dglmadras.github.io/index.html)
 - [The Trowel](https://drive.google.com/file/d/1a1uJxBL73GGV-rjmk6oA4l0SJbFD5v3j/view?usp=sharing)
 - [An Officer and a Mason](https://drive.google.com/file/d/1BM8blOwyv7KVbtsxCPDaRiAtt-Sy6FcQ/view?usp=sharing)
 - [Reverential or Hailing Sign in Holy Royal Arch](https://drive.google.com/file/d/18ogy0IREGs6h12BTx6-eheB83mksDpKv/view?usp=sharing)
