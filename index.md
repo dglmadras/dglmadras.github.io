@@ -5,6 +5,8 @@
 
 
 ### Nuggets
+- [Of Brothers and Companions](https://drive.google.com/file/d/1-DzfGjo--sgmE9S_GSnoEwZZXB4n2_uP/view?usp=sharing)
+- [Beyond The Summit](https://drive.google.com/file/d/1hUQgTaXQUzEsuYM_ZD6LZCU7uY8uVJyw/view?usp=sharing)
 - [Power of Empathy](https://drive.google.com/file/d/1yQNNXd77tKAMvD2NSwA5xc_l3XczGGbx/view?usp=sharing)
 - [Signs, Tokens and Passwords](https://drive.google.com/file/d/18zSjOh1amaTE09EDBmlkX6H-QYbAyFvF/view?usp=sharing)
 - [Wisdom of the Initiation Ceremony](https://drive.google.com/file/d/1Uz4otGH_WdZgo1AGLQ081jPpCgGabUl0/view?usp=sharing)
