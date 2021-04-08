@@ -6,7 +6,7 @@
 
 ### Nuggets
   
-  [<<prev](https://dglmadras.github.io/index.html)
+  [<<prev](https://dglmadras.github.io/index3.html)
 - [The Trowel](https://drive.google.com/file/d/1a1uJxBL73GGV-rjmk6oA4l0SJbFD5v3j/view?usp=sharing)
 - [An Officer and a Mason](https://drive.google.com/file/d/1BM8blOwyv7KVbtsxCPDaRiAtt-Sy6FcQ/view?usp=sharing)
 - [Reverential or Hailing Sign in Holy Royal Arch](https://drive.google.com/file/d/18ogy0IREGs6h12BTx6-eheB83mksDpKv/view?usp=sharing)
