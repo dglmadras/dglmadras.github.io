@@ -5,22 +5,13 @@
 
 
 ### Nuggets
+- [Whom have you there?](https://drive.google.com/file/d/1iYQrzuCrj8VQk7g27QnxMsfmFGoNHU3C/view?usp=sharing)
 - [Of Brothers and Companions](https://drive.google.com/file/d/1-DzfGjo--sgmE9S_GSnoEwZZXB4n2_uP/view?usp=sharing)
 - [Beyond The Summit](https://drive.google.com/file/d/1hUQgTaXQUzEsuYM_ZD6LZCU7uY8uVJyw/view?usp=sharing)
-- [Power of Empathy](https://drive.google.com/file/d/1yQNNXd77tKAMvD2NSwA5xc_l3XczGGbx/view?usp=sharing)
-- [Signs, Tokens and Passwords](https://drive.google.com/file/d/18zSjOh1amaTE09EDBmlkX6H-QYbAyFvF/view?usp=sharing)
-- [Wisdom of the Initiation Ceremony](https://drive.google.com/file/d/1Uz4otGH_WdZgo1AGLQ081jPpCgGabUl0/view?usp=sharing)
-- [Junior Deacon Mentor Primo](https://drive.google.com/file/d/14RcdFYz9qGVcz7Iit4sFwPg_UwV9EqLE/view?usp=sharing)
-- [Pursuit of Light](https://drive.google.com/file/d/1_TjlwXo-k2vd8zf2zsv5GpR4mPejkBJ-/view?usp=sharing)
-- [Journey as an Entered Apprentice](https://drive.google.com/file/d/1SET2jRQ50w4Sw2rT6eCJe84GjIs7RJF8/view?usp=sharing)
-- [Charity](https://drive.google.com/file/d/1R8h9E3H5dt13ZC1Y-3RpqJK5Gilj9OSH/view?usp=sharing)
-- [Allegory and Symbols](https://drive.google.com/file/d/1huSa7NDRBUsOJdZn69A_G35hGagFFTCF/view?usp=sharing)
-- [The Poniard](https://drive.google.com/file/d/1L9pE1dQ4bXO1DxC16hYRAz7m4_QykMM8/view?usp=sharing)
-- [Reaching the First Regular Step](https://drive.google.com/file/d/1iwESjCmaUFpSzgB2_lMrGd_mKMtt25ey/view?usp=sharing)
 
   
   
-[next>>](https://dglmadras.github.io/index2.html)
+[next>>](https://dglmadras.github.io/index3.html)
 
 ### Articles
 - [Rough and Perfect Ashlar](https://drive.google.com/file/d/1wsKWVqiPKJBq59WJMGjUa8_MonJRpz0I/view?usp=sharing)
