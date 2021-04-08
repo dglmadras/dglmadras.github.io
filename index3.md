@@ -5,6 +5,9 @@
 
 
 ### Nuggets
+  [<<prev](https://dglmadras.github.io/index3.html)
+  
+  
 - [Power of Empathy](https://drive.google.com/file/d/1yQNNXd77tKAMvD2NSwA5xc_l3XczGGbx/view?usp=sharing)
 - [Signs, Tokens and Passwords](https://drive.google.com/file/d/18zSjOh1amaTE09EDBmlkX6H-QYbAyFvF/view?usp=sharing)
 - [Wisdom of the Initiation Ceremony](https://drive.google.com/file/d/1Uz4otGH_WdZgo1AGLQ081jPpCgGabUl0/view?usp=sharing)
